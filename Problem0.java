@@ -2,6 +2,9 @@ public class Problem0
 {
   public static void main(String[] args)
   {
-    // insert code here
+    double variable = 1;
+    System.out.print(variable);
+    int variable2 = 2.0;
+    System.out.print(variable2);
   }
 }
